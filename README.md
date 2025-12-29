@@ -1,5 +1,5 @@
 # 💫 About Me:
-It's a web-based vegetable online shopping website using HTML, CSS, and JavaScript. The platform allows users to browse on the banking web,view prices,free advices and place orders through a simple and user-friendly interface. I enjoy solving complex problems and continuously improving my technical skills through practical projects.<br>
+It's a web-based,online banking website using HTML, CSS, and JavaScript. The platform allows users to browse on the banking web,view prices,free advices and place orders through a simple and user-friendly interface. I enjoy solving complex problems and continuously improving my technical skills through practical projects.<br>
 
 
 # 💻 Tech Stack:
