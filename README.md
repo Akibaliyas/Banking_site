@@ -19,9 +19,10 @@ It's a web-based vegetable online shopping website using HTML, CSS, and JavaScri
 
 ## 🛒 Vegetable Online Shopping Website – UI Preview
 
-<img src="https://github.com/Akibaliyas/Banking_site/main/ss.png" width="600">
-<img src="https://github.com/Akibaliyas/vege-site/blob/main/ac.png" width="600">
+<img src="https://github.com/Akibaliyas/Banking_site/ss.png" width="600">
+
 <img src="https://github.com/Akibaliyas/vege-site/blob/main/images/ad.png" width="600">
 <img src="https://github.com/Akibaliyas/vege-site/blob/main/images/ae.png" width="600">
 <img src="https://github.com/Akibaliyas/Banking_site/edit/main/images/at.png" width="600">
 
+<img src="https://github.com/Akibaliyas/Banking_site/at.png" width="600">
