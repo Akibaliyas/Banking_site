@@ -26,3 +26,4 @@ It's a web-based vegetable online shopping website using HTML, CSS, and JavaScri
 <img src="https://github.com/Akibaliyas/Banking_site/edit/main/images/at.png" width="600">
 
 <img src="https://github.com/Akibaliyas/Banking_site/at.png" width="600">
+<img src="https://github.com/Akibaliyas/Banking_site/blob/main/images/ss.png" width="600">
