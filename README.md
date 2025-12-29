@@ -19,8 +19,6 @@ It's a web-based,online banking website using HTML, CSS, and JavaScript. The pla
 
 ## Banking system web – UI Preview
 
-<img src="https://github.com/Akibaliyas/Banking_site/ss.png" width="600">
-
 <img src="https://github.com/Akibaliyas/Banking_site/blob/main/ss.png" width="600">
 <img src="https://github.com/Akibaliyas/Banking_site/blob/main/ssa.png" width="600">
 <img src="https://github.com/Akibaliyas/Banking_site/blob/main/ssb.png" width="600">
