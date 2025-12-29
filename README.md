@@ -17,11 +17,11 @@ It's a web-based vegetable online shopping website using HTML, CSS, and JavaScri
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🛒 Vegetable Online Shopping Website – UI Preview
+## Banking system web – UI Preview
 
 <img src="https://github.com/Akibaliyas/Banking_site/ss.png" width="600">
 
-<img src="https://github.com/Akibaliyas/Banking_site/blob/main/images/ss.png" width="600">
-<img src="https://github.com/Akibaliyas/Banking_site/blob/main/images/ssa.png" width="600">
+<img src="https://github.com/Akibaliyas/Banking_site/blob/main/ss.png" width="600">
+<img src="https://github.com/Akibaliyas/Banking_site/blob/main/ssa.png" width="600">
 <img src="https://github.com/Akibaliyas/Banking_site/blob/main/ssb.png" width="600">
-https://github.com/Akibaliyas/Banking_site/blob/main/README.md
+
